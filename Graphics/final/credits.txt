@@ -1,0 +1,23 @@
+ - header/library import/canvas (ln 1-16) - Daniel
+ - cat creation (ln 18 - 356) - Daniel
+ - notification messages (Press any key to continue, Esc to pause, exploration reward) (ln 158-377) - Daniel
+ - stars (ln 379-394) - Daniel
+ - cat flipping logic (ln 396-418) - Daniel
+ - pause menu (ln 420-531) - Daniel
+ - cover function logic (ln 534-555, 643-645, 682-700) - Daniel
+ - cover function art (ln 557-641, 647-680) - Mehra
+ - backstory function (ln 702-782) - Daniel
+ - desert function art (ln 787-896) - Mehra
+ - desert function logic (ln 784-786, 898-1132) - Daniel (jumping code formula inspired by Mehra, Lucas, Felix)
+ - forest function art (ln 1136-1338) - Mehra
+ - forest function logic (ln 1134-1135, 1340-1526) - Daniel
+ - ocean function art (ln 1530-1564, 1574-1647) - Mehra
+ - ocean function logic (ln 1528-1529, 1565-1571, 1649-2059) - Daniel
+ - sky function art (ln 2064-2129) - Mehra
+ - sky function logic (ln 2061-2062, 2131-2291) - Daniel
+ - cave ending function art (ln 2294-2349) - Mehra
+ - cave ending function logic (ln 2351-2507) - Daniel
+ - space ending function (ln 2509-2704) - Daniel
+ - main loop for scene navigation (ln 2706-2733) - Daniel
+
+ - Story text - Mehra

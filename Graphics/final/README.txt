@@ -1,0 +1,14 @@
+ - Created by Mehra Shariati + Daniel Chen
+ - You can use right arrow to skip the first ~three seconds where it tells you to press escape to pause
+ - You can pause virtually anywhere
+ - EXP in the pause menu is only updated after a scene ends
+ - Click on objects to gain Exploration Points, which determine your ending
+     - clickable objects are:
+         - Sun in desert
+         - two right-most flowers in forest
+         - all moving kelp centres except for the second-most one from the right in ocean
+         - all fish in ocean (if you can reach their hitbox)
+         - total 11 clickable items (realistically 8 considering fish hitbox)
+         - 5 or more are needed to get the space ending
+ - if a specific scene is needed you can modify the "transition" and "exp" variables at the bottom of the script just before the while loop to choose a scene
+ - a lot of the code is to handle interactivity (mostly pausing) to it may get boring
